@@ -6,28 +6,26 @@
 💼 Currently working as a Product Analyst.<br>🌱 I’m currently diving deep into the world of Data Science.<br>🐱‍👤 I’m looking to collaborate on exciting Computer Vision projects.<br>🤔 I’m looking for help with my intriguing DLT (Distributed Ledger Technology) projects.<br>💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>😄 Pronouns: GOD! (Giver Of Data)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MobinMithun&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobinMithun&theme=nord&hide_border=false" alt="GitHub Streak" width="48%" align="right">
 </div>
 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=MobinMithun&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div>
+  <div style="display: inline-block; width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%">
+  </div>
+  <div style="display: inline-block; width: 48%; float: right;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobinMithun&theme=nord&hide_border=false" alt="GitHub Streak" width="100%" align="right">
+  </div>
+</div>
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=MobinMithun&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 ###
 
