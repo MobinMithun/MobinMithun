@@ -7,7 +7,8 @@
 </p>
 
 ###
-
+<!-- welcome message -->
+<h2>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 ## 😎 About Me:
 💼 Currently working as a Product Analyst.<br>🌱 I’m currently diving deep into the world of Data Science.<br>🐱‍👤 I’m looking to collaborate on exciting Computer Vision projects.<br>🤔 I’m looking for help with my intriguing DLT (Distributed Ledger Technology) projects.<br>💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>😄 Pronouns: GOD! (Giver Of Data)
 
