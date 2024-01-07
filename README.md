@@ -15,16 +15,12 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MobinMithun&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<div>
-  <div style="display: inline-block; width: 48%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="100%">
-  </div>
-  <div style="display: inline-block; width: 48%; float: right;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobinMithun&theme=nord&hide_border=false" alt="GitHub Streak" width="100%" align="right">
-  </div>
-</div>
+<p align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=MobinMithun&icon=5&color=0" alt="Visit Count">
+  </a>
+</p>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=MobinMithun&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 ###
