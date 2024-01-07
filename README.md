@@ -11,9 +11,6 @@
 ## 😎 About Me:
 💼 Currently working as a Product Analyst.<br>🌱 I’m currently diving deep into the world of Data Science.<br>🐱‍👤 I’m looking to collaborate on exciting Computer Vision projects.<br>🤔 I’m looking for help with my intriguing DLT (Distributed Ledger Technology) projects.<br>💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>😄 Pronouns: GOD! (Giver Of Data)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" alt="whaaat?" width="100%">
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/pcIZlEkt0ddNwEXxT4/giphy.gif" alt="whaaat?" width="100%">
@@ -27,6 +24,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobinMithun&theme=nord&hide_border=false" alt="GitHub Streak" width="48%" align="right">
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" alt="whaaat?" width="100%">
+</p>
+
+###
+
 
 ---
 <p align="left">
