@@ -15,6 +15,10 @@
   <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" alt="whaaat?" width="100%">
 </p>
 
+<p align="left">
+  <img align="left" height="300" src="https://media.giphy.com/media/pcIZlEkt0ddNwEXxT4/giphy.gif" alt="Animated GIF" />
+</p>
+
 ## 📊 GitHub Stats:
 
 <div>
@@ -25,10 +29,6 @@
 ---
 <p align="left">
   <img align="left" height="300" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="Animated GIF" />
-</p>
-
-<p align="left">
-  <img align="left" height="300" src="https://media.giphy.com/media/pcIZlEkt0ddNwEXxT4/giphy.gif" alt="Animated GIF" />
 </p>
 
 
