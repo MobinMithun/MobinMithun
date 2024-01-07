@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"  />
+<img align="right" height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
