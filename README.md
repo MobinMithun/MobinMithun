@@ -23,19 +23,18 @@
 </div>
 
 ---
-
 <p align="left">
+  <img align="left" height="200" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="Animated GIF" />
+</p>
+
+###
+
+<p align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=MobinMithun&icon=5&color=0" alt="Visit Count">
   </a>
 </p>
 
-
-###
-
-<p align="left">
-  <img align="left" height="200" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="Animated GIF" />
-</p>
 
 ###
 
