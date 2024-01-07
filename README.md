@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" alt="whaaat?" width="70%">
+  <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" alt="whaaat?" width="100%">
 </p>
 
 ###
