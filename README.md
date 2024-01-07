@@ -10,8 +10,7 @@
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 💼 I'm currently working as a Product Analyst.<br>🌱 I’m diving deep into the world of Data Science.<br>🐱‍👤 I’m looking to collaborate on exciting Computer Vision projects.<br>🤔 I’m looking for help with my intriguing DLT (Distributed Ledger Technology) projects.<br>💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>😄 Pronouns: GOD! (Giver Of Data)
-
-
+<br>
 <p align="center">
   <img src="https://media.giphy.com/media/pcIZlEkt0ddNwEXxT4/giphy.gif" alt="whaaat?" width="100%">
 </p>
