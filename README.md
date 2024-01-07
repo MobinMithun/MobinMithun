@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Handshake GIF" width="100">
+  <img src="https://media.giphy.com/media/FG0AJdatdqo12/giphy.gif" alt="Handshake GIF" width="100">
 </p>
 
 <h1 align="center">Hi! This is MOB 👋</h1>
