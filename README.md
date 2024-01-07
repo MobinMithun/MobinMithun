@@ -9,7 +9,7 @@
   <br>
   <br>
   <p align="center">
-  <img src="https://profile-counter.glitch.me/showrin/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
 </h2>
 
