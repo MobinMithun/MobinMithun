@@ -5,7 +5,7 @@
 <h2 align="center"> 
   Hi! This is MOB 😁
   <br>
-  Thanks For Being A Valuable Visitor of My Profile Among
+Appreciate You For Rollin' Through My Profile Among
   <br>
   <br>
   <p align="center">
