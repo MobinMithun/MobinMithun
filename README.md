@@ -1,14 +1,14 @@
-<p align="left">
+<p align="right">
   <img src="https://media.giphy.com/media/FG0AJdatdqo12/giphy.gif" alt="Handshake GIF" width="100">
 </p>
 
-<h2 align="left"> 
+<h2 align="right"> 
   Hi! This is MOB 😁
   <br>
   Thanks For Being A Valuable Visitor of My Profile Among
   <br>
   <br>
-  <p align="left">
+  <p align="right">
   <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
 </h2>
