@@ -4,14 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
-    body {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      margin: 0;
-    }
-
     @keyframes blink {
       0%, 50%, 100% {
         color: red;
@@ -39,9 +31,10 @@
   </style>
 </head>
 <body>
-  <h1>Hi! This is MOB 👋</h1>
+  <h1 align="left">Hi! This is MOB 👋</h1>
 </body>
 </html>
+
 
 
 ###
