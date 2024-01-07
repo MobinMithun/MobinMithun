@@ -34,7 +34,7 @@
 ###
 
 <p align="left">
-  <img align="left" height="300" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="Animated GIF" />
+  <img align="left" height="200" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="Animated GIF" />
 </p>
 
 ###
