@@ -6,26 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+This+is+MOB+%F0%9F%98%81;A+Data+Science+Enthusiast;Experienced+UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
-  <br>
-Appreciate You For Rollin' Through My Profile Among
-
-  
-  <br>
-  <br>
-  
-<table align="center">
-  <tr align="center">
-    <td align="center">
-    <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" border="0" title="free hit counter" alt="free hit counter">
-    </td>
-  </tr>
-</table>
-
-  </h2>
-
-
-
-
 ###
 
 # 💫 About Me:
