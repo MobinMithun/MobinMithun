@@ -10,10 +10,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MobinMithun&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="45%" style="margin-right: 5%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobinMithun&theme=nord&hide_border=false" alt="GitHub Streak" width="45%">
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MobinMithun&theme=nord&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MobinMithun&theme=nord&hide_border=false" alt="GitHub Streak" width="48%" align="right">
+</div>
+
 
 
 
