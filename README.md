@@ -5,6 +5,11 @@
 # 💫 About Me:
 💼 Currently working as a Product Analyst.<br>🌱 I’m currently diving deep into the world of Data Science.<br>🐱‍👤 I’m looking to collaborate on exciting Computer Vision projects.<br>🤔 I’m looking for help with my intriguing DLT (Distributed Ledger Technology) projects.<br>💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>😄 Pronouns: GOD! (Giver Of Data)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o72F7RrTPW6jymXew/giphy.gif" alt="Your GIF">
+</p>
+
+
 # 📊 GitHub Stats:
 
 <div>
