@@ -1,4 +1,48 @@
-<h1 align="left">Hi! This is MOB 👋</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    @keyframes blink {
+      0%, 50%, 100% {
+        color: red;
+      }
+      25%, 75% {
+        color: blue;
+      }
+    }
+
+    @keyframes shake {
+      0%, 100% {
+        transform: translateX(0);
+      }
+      10%, 30%, 50%, 70%, 90% {
+        transform: translateX(-5px);
+      }
+      20%, 40%, 60%, 80% {
+        transform: translateX(5px);
+      }
+    }
+
+    h1 {
+      animation: blink 2s infinite, shake 2s infinite;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi! This is MOB 👋</h1>
+</body>
+</html>
+
 
 ###
 
