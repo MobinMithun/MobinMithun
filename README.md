@@ -8,9 +8,12 @@
 Appreciate You For Rollin' Through My Profile Among
   <br>
   <br>
+  
+  <table>
   <p align="center">
   <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
+  </table>
 </h2>
 
 
@@ -98,5 +101,6 @@ Appreciate You For Rollin' Through My Profile Among
 </p>
 
 ###
+
 
 
