@@ -1,13 +1,13 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/FG0AJdatdqo12/giphy.gif" alt="Handshake GIF" width="100">
-</p>
-
-<h2 align="center"> 
-  Hi! This is MOB.
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
+  
+<h2 align="center"> 
+  Hi! This is MOB.
+<p align="center">
+  <img src="https://media.giphy.com/media/FG0AJdatdqo12/giphy.gif" alt="Handshake GIF" width="100">
+</p>
   Thanks For Being A Valuable Visitor of My Profile Among
   <br>
   <br>
