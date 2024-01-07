@@ -6,17 +6,18 @@
   Hi! This is MOB 😁
   <br>
 Appreciate You For Rollin' Through My Profile Among
+  </h2>
+  
   <br>
   <br>
   
-  <table>
-    <tr>
-  <p align="center">
-  <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" border="0" title="free hit counter" alt="free hit counter">
-  </p>
-    </tr>
-  </table> 
-</h2>
+<table align="center">
+  <tr>
+    <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  </tr>
+</table> 
+
+
 
 
 ###
