@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! This is MOB </h2>
 
 ###
 
@@ -41,24 +41,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-# My GitHub Statistics
-
-<p align="center">
- <a href="https://github.com/[Your GitHub Username]">
-    <img alt="[Your Name]'s GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=default&hide_border=true" />
- </a>
-</p>
-
-# Connect with me
-
-[<img align="center" alt="[Your Name] | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/[Your Twitter Handle])
-[<img align="center" alt="[Your Name] | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/[Your LinkedIn Handle])
-[<img align="center" alt="[Your Name] | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:[Your Email Address])
