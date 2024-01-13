@@ -42,10 +42,9 @@
 
 ###
 
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=MobinMithun&icon=5&color=0" alt="Visit Count">
-  </a>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" />
 </p>
 
 
