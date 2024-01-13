@@ -103,6 +103,4 @@
 </p>
 
 ###
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-
 
