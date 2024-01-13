@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left"> 
+<p align="right"> 
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" />
 </p>
