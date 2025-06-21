@@ -9,7 +9,7 @@
 ###
 <!-- welcome message -->
 <h2>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-💼 I'm currently working as a Product Manager.<br>🌱 I’m diving deep into the world of Data Analytics.<br>🐱‍👤 I’m looking to collaborate on exciting AI Agents.<br>🤔 I’m looking for help with my intriguing DLT (Distributed Ledger Technology) projects.<br>💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>😄 Pronouns: GOD! (Giver Of Data)
+💼 I'm currently working as a Product Manager.<br>🌱 I’m diving deep into the world of Business Analytics.<br>🐱‍👤 I’m looking to collaborate on exciting AI Agents.<br>🤔 I’m looking for help with my intriguing DLT (Distributed Ledger Technology) projects.<br>💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>😄
 <br>
 <br>
 <p align="center">
