@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/FG0AJdatdqo12/giphy.gif" alt="Handshake GIF" width="100">
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+This+is+MOB+%F0%9F%98%81;A+Data+Science+Enthusiast;Experienced+UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</p>
+
 <div align="center">
 <pre>
 ╔══════════════════════════════╗
@@ -11,16 +19,6 @@
 </pre>
 </div>
 
-
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/FG0AJdatdqo12/giphy.gif" alt="Handshake GIF" width="100">
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi!+This+is+MOB+%F0%9F%98%81;A+Data+Science+Enthusiast;Experienced+UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" /></a>
-</p>
 
 ###
 <!-- welcome message -->
