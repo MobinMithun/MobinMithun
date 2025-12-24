@@ -23,37 +23,29 @@
 ###
 <!-- welcome message -->
 <h2>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-💼 I'm currently working as a Product Manager.<br>🌱 I’m diving deep into the world of LegalTech.<br>🐱‍👤 I’m looking to collaborate on exciting BNPL Projects.<br> 💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>
-<br>
-<br>
+<table border="0">
+  <tr>
+    <td width="320" valign="top">
+      <img 
+        src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" 
+        height="300" 
+        alt="Animated GIF" />
+    </td>
+    <td valign="top" align="left">
+
+💼 I'm currently working as a **Product Manager**  
+🌱 Diving deep into **LegalTech**  
+🐱‍👤 Looking to collaborate on **BNPL projects**  
+💬 Ask me about my endless love for **music** 🎧  
+
+    </td>
+  </tr>
+</table>
+
+###
+
 <p align="center">
   <img src="https://media.giphy.com/media/pcIZlEkt0ddNwEXxT4/giphy.gif" alt="whaaat?" width="70%">
 </p>
 
 ###
-
-
-
-
----
-<p align="left">
-  <img align="left" height="300" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="Animated GIF" />
-</p>
-
-###
-
-<table>
-  <tr>
-    <td width="320">
-      <img src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" height="300" />
-    </td>
-    <td align="left" valign="top">
-
-💼 I'm currently working as a **Product Manager**  
-🌱 Diving deep into **LegalTech**  
-🐱‍👤 Looking to collaborate on **BNPL projects**  
-💬 Ask me about **music** — always up for a good chat 🎧
-
-    </td>
-  </tr>
-</table>
