@@ -40,15 +40,6 @@
   <img align="left" height="300" src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" alt="Animated GIF" />
 </p>
 
-
-###
-
-<p align="right"> 
-  Visitors Count<br>
-  <img src="https://profile-counter.glitch.me/mobinmithun/count.svg" />
-</p>
-
-
 ###
 
 <div align="right">
