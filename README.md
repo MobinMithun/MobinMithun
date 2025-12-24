@@ -23,26 +23,28 @@
 ###
 <!-- welcome message -->
 <h2>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-<div align="left">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="320" valign="top">
-        <img 
-          src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" 
-          height="300" 
-          alt="Animated GIF" />
-      </td>
-      <td valign="top" align="left">
 
-💼 I'm currently working as a **Product Manager**  
-🌱 Diving deep into **LegalTech**  
-🐱‍👤 Looking to collaborate on **BNPL projects**  
-💬 Ask me about my endless love for **music** 🎧  
+<table border="0" cellpadding="0" cellspacing="0" align="left">
+  <tr>
+    <td width="280" valign="top">
+      <img 
+        src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" 
+        height="240" 
+        alt="Animated GIF" />
+    </td>
+    <td valign="top" style="padding-left:16px;">
 
-      </td>
-    </tr>
-  </table>
-</div>
+💼 **Product Manager**  
+🌱 **LegalTech explorer**  
+🐱‍👤 **BNPL collaborations**  
+🎧 **Music enthusiast**
+
+    </td>
+  </tr>
+</table>
+
+<br clear="all" />
+
 
 ###
 ---
