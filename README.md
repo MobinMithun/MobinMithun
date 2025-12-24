@@ -23,7 +23,7 @@
 ###
 <!-- welcome message -->
 <h2>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
-💼 I'm currently working as a Product Manager.<br>🌱 I’m diving deep into the world of Legal Tech.<br>🐱‍👤 I’m looking to collaborate on exciting AI Agents.<br>🤔 I’m looking for help with my intriguing DLT (Distributed Ledger Technology) projects.<br>💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>
+💼 I'm currently working as a Product Manager.<br>🌱 I’m diving deep into the world of LegalTech.<br>🐱‍👤 I’m looking to collaborate on exciting BNPL Projects.<br> 💬 Ask me about my endless love for music; I'm always up for a good music chat.<br>
 <br>
 <br>
 <p align="center">
