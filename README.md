@@ -24,26 +24,20 @@
 <!-- welcome message -->
 <h2>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<table border="0" cellpadding="0" cellspacing="0" align="left">
-  <tr>
-    <td width="280" valign="top">
-      <img 
-        src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" 
-        height="240" 
-        alt="Animated GIF" />
-    </td>
-    <td valign="top" style="padding-left:16px;">
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" 
+    height="220" 
+    alt="Animated GIF" />
+</p>
 
-💼 **Product Manager**  
-🌱 **LegalTech explorer**  
-🐱‍👤 **BNPL collaborations**  
-🎧 **Music enthusiast**
+<p align="center">
+💼 <b>Product Manager</b> &nbsp;•&nbsp;
+🌱 <b>LegalTech</b> &nbsp;•&nbsp;
+🐱‍👤 <b>BNPL</b> &nbsp;•&nbsp;
+🎧 <b>Music</b>
+</p>
 
-    </td>
-  </tr>
-</table>
-
-<br clear="all" />
 
 
 ###
