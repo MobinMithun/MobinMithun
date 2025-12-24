@@ -13,6 +13,13 @@
 <!-- welcome message -->
 <h2>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
+<p align="center">
+💼 <b>Vibe Coder</b> &nbsp;•&nbsp;
+⚖️ <b>Building LegalTech</b> &nbsp;•&nbsp;
+💸 <b>BNPL Enthusiast</b> &nbsp;•&nbsp;
+🎧 <b>Melophile</b>
+</p>
+
 <div align="center">
 <pre>
 ╔══════════════════════════════╗
@@ -25,20 +32,6 @@
 ╚══════════════════════════════╝
 </pre>
 </div>
-
-<p align="center">
-💼 <b>Vibe Coder</b> &nbsp;•&nbsp;
-⚖️ <b>Building LegalTech</b> &nbsp;•&nbsp;
-💸 <b>BNPL Enthusiast</b> &nbsp;•&nbsp;
-🎧 <b>Melophile</b>
-</p>
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/B4dt6rXq6nABilHTYM/giphy.gif" 
-    height="220" 
-    alt="Animated GIF" />
-</p>
 
 ###
 ---
