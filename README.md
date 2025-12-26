@@ -35,8 +35,3 @@
 
 ###
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/pcIZlEkt0ddNwEXxT4/giphy.gif" alt="whaaat?" width="100%">
-</p>
-
-###
