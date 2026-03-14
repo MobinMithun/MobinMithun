@@ -13,13 +13,6 @@
 <!-- welcome message -->
 <h2>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
-<p align="center">
-💼 <b>Vibe Coder</b> &nbsp;•&nbsp;
-⚖️ <b>Building LegalTech</b> &nbsp;•&nbsp;
-💸 <b>BNPL Enthusiast</b> &nbsp;•&nbsp;
-🎧 <b>Melophile</b>
-</p>
-
 <div align="center">
 <pre>
 ╔══════════════════════════════╗
